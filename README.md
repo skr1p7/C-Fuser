@@ -24,6 +24,16 @@ sudo apt-get install python3
 ```bash
 python3 cf_code.py
 ```
+Screenshot of fetched data of user **tourist**
+
+*tourist*
+
+![tourist](samples/tourist.png)
+
+*DmitriyH*
+
+![DmitriyH](samples/Dmitriy.png)
+
 
 **Contact developer here**
 [Twitter] https://twitter.com/0xskr1p7
